@@ -1,17 +1,3 @@
-Yes, I remember your **Computer Security research paper** project (e.g., **"A Privacy-Preserving and Interpretable Federated IDS for IoT-Based Networks (XFedIDS+)"**) that involves:
-
-* CNN-LSTM based Federated Intrusion Detection System
-* FedAvg + FedProx optimization
-* CRADS client selection
-* SHAP & LIME explainability
-* Raspberry Pi deployment
-* IoT datasets (UNSW-NB15, IoT-23)
-* Real-world testbed and Differential Privacy
-
-
----
-
-````markdown
 # XFedIDS+: A Privacy-Preserving and Interpretable Federated IDS for IoT-Based Networks
 
 ![License](https://img.shields.io/badge/license-MIT-green)
